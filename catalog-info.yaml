@@ -9,6 +9,7 @@ metadata:
     - magento
     - go
     - golang
+    - experiment
 spec:
   type: service
   lifecycle: experimental
