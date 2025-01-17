@@ -2,7 +2,7 @@ site_name: golang-microservice-test
 site_description: "tech docs site description"
 
 nav:
-  - Introduction: README.MD
+  - Introduction: Readme.md
 
 plugins:
   - techdocs-core
