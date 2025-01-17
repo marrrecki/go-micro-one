@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: golang-microservice-test
+  description: Test app written in go
+  namespace: vendor,project-1
+  tags:
+    - php
+    - magento
+    - go
+    - golang
+spec:
+  type: service
+  lifecycle: experimental
+  owner: marrrecki@gmail.com
