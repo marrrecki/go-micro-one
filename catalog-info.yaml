@@ -18,6 +18,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     grafana/dashboard-selector: "(title == 'my-service')"
     grafana/tag-selector: "my-tag"
+    grafana/overview-dashboard: 'http://localhost:3001/d/eeaoswp24u4u8d/new-dashboard?orgId=1&from=1737484307247&to=1737487907247'
 spec:
   type: service
   lifecycle: experimental
