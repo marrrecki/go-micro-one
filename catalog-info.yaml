@@ -16,7 +16,7 @@ metadata:
       icon: dashboard
   annotations:
     backstage.io/techdocs-ref: dir:.
-    grafana/dashboard-selector: "my-service"
+    grafana/dashboard-selector: "(title == 'my-service')"
     grafana/tag-selector: "my-tag"
 spec:
   type: service
