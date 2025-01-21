@@ -17,6 +17,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     grafana/dashboard-selector: my-service
+    grafana/tag-selector: "my-tag"
 spec:
   type: service
   lifecycle: experimental
