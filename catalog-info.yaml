@@ -16,6 +16,7 @@ metadata:
       icon: dashboard
   annotations:
     backstage.io/techdocs-ref: dir:.
+    grafana/dashboard-selector: my-service
 spec:
   type: service
   lifecycle: experimental
