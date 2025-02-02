@@ -22,7 +22,7 @@ metadata:
     grafana/dashboard-selector: "(title == 'my-service')"
     grafana/tag-selector: "my-tag"
     grafana/overview-dashboard: 'https://grafana.b2c246.orb.local/d/eeaoswp24u4u8d/new-dashboard?orgId=1&from=1737484573767&to=1737488173767&viewPanel=1'
-    backstage.io/adr-location: docks/adrs
+    backstage.io/adr-location: https://github.com/marrrecki/go-micro-one/tree/master/docs/adrs
 spec:
   type: service
   lifecycle: experimental
