@@ -1,5 +1,6 @@
 site_name: golang-microservice-test
 site_description: "tech docs site description"
+repo_url: https://github.com/marrrecki/go-micro-one/tree/master
 
 nav:
   - Introduction: Readme.md
