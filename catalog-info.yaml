@@ -11,8 +11,11 @@ metadata:
     - golang
     - experiment
   links:
-    - url: https://dashboard.example.com
-      title: My Dashboard
+    - url: https://monogo.atlassian.net/wiki/spaces/~5c2db40b9f443a65fecb82a9/pages/1513488396/test+project+page
+      title: Confluence page
+      icon: dashboard
+    - url: https://monogo.atlassian.net/wiki/spaces/~5c2db40b9f443a65fecb82a9/pages/561348894/Decision
+      title: ADR - confluence
       icon: dashboard
   annotations:
     backstage.io/techdocs-ref: dir:.
